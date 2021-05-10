@@ -18,6 +18,7 @@
   - Pytorch 주요 라이브러리 소개 - 연습문제 및 실습
 
 	2일차 [딥러닝 모델]
+	
   - 딥러닝을 위한 데이터 준비 및 모델 적용 후 성능 검증
   - Activation Function 및 Hyper Parameter 설정 이해
   - Neural Network Regression Model 구현
@@ -27,6 +28,7 @@
   - 연습 문제 및 실습
 
 	3일차 [딥러닝 모델]
+	
   - 이미지 인식 model 과 Layers API 이용
   - Convolutional N.N 알고리즘 이해
   - Image 특성 추출 kernel 작동 원리 이해
@@ -36,6 +38,7 @@
   - 모델 성능 평가 - 연습문제 및 실습
 
   	4일차 [딥러닝 모델]
+	
   - 자연어 인식 모델과 시계열 데이터 학습 모델 구현
   - Sequence Model 이해 - RNN 및 LSTM 알고리즘 이해
   - Language Model 소개 및 작동 알고리즘 이해
