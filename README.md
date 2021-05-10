@@ -36,7 +36,7 @@ KOSA Python &amp; Pytorch
   - pre-trained model 의 학습 전이 기능 이해
   - 모델 성능 평가 - 연습문제 및 실습
 
-  4일차 [딥러닝 모델]
+  	4일차 [딥러닝 모델]
   - 자연어 인식 모델과 시계열 데이터 학습 모델 구현
   - Sequence Model 이해 - RNN 및 LSTM 알고리즘 이해
   - Language Model 소개 및 작동 알고리즘 이해
