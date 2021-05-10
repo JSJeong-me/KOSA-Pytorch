@@ -1,5 +1,4 @@
 # KOSA-Pytorch
-KOSA Python &amp; Pytorch
 
 # KOSA-Python과 Pytorch를 활용한 인공지능 딥러닝 입문과정
 
