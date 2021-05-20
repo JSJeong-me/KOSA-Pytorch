@@ -30,6 +30,8 @@ conda install -c conda-forge opencv matplotlib jupyterlab scikit-image seaborn g
     
     9   conda remove --name project1 --all
     
+    # pip install -r requirements.txt
+    
     참고자료
     https://velog.io/@tyhlife/%EC%95%84%EB%82%98%EC%BD%98%EB%8B%A4-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0
     
