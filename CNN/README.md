@@ -7,3 +7,5 @@ https://drive.google.com/file/d/1ms_C8PE7T6j-oo86cnyja8iChcIYHyni/view?usp=shari
 ### Quantized Transfer Learning for Computer Vision Tutorial
 
 https://pytorch.org/tutorials/intermediate/quantized_transfer_learning_tutorial.html
+
+https://pytorch.org/docs/notes/autograd.html#excluding-subgraphs-from-backward
