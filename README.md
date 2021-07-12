@@ -45,3 +45,17 @@
   - Language Model 소개 및 작동 알고리즘 이해
   - RNN 모델을 이용한 감성분석 - 자연어 처리 모델 소개
   - Auto-encoder 모델 소개 - wrap-up 및 평가
+
+
+
+Advanced TensorFlow users familiar with “GradientTape” know that it takes significantly more code to train a network than simply calling “model.fit”, but the additional control you have is sometimes worth it, especially if you are doing state-of-the-art research.
+
+Thus, you think of PyTorch as being in “GradientTape” mode by default — the training loop must be implemented by hand which will require additional code.
+
+My thoughts: Yes, coding neural networks and training procedures with PyTorch does take more code, and oftentimes more effort than the higher-level Keras API; however, Keras doesn’t give you control over what happens inside “model.fit” — PyTorch does.
+
+Yes, but: All that flexibility comes at a cost though. I haven’t met a single deep learning practitioner who hasn’t at least once screwed up:
+
+Zeroing their gradients with “opt.zero_grad()”
+Performing backpropagation with “loss.backward()”
+Updating their model weights with “opt.step()”
